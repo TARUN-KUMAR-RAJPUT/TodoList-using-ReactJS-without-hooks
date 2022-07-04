@@ -1,0 +1,27 @@
+
+.item {
+    margin-left: 3cm;
+    margin-right: 3cm;
+    color: black;
+    font-size: 0.6cm;
+    font-weight: 900;
+}
+
+.btn_done {
+    margin-left: 5cm;
+    color: black;
+    height: 0.7cm;
+    background-color: green;
+    width: 1.5cm;
+    border-width: 2px;
+}
+
+
+.btn_rmv {
+    margin-left: 1cm;
+    color: black;
+    height: 0.7cm;
+    background-color:red;
+    width: 1.7cm;
+    border-width: 2px;
+}

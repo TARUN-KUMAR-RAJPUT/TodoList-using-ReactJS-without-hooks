@@ -1,0 +1,19 @@
+
+.btn {
+    margin-left: 0.5cm;
+    color: black;
+    height: 1cm;
+    background-color: teal;
+    width: 1.7cm;
+    border-width: 4px;
+}
+
+.inpt {
+    margin-left: 3cm;
+    width: 8cm;
+    height: 0.75cm;
+    color: black;
+    border-width: 4px;
+    border-color: black;
+    background-color:slategrey ;
+}
